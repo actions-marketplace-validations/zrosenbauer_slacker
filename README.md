@@ -1,3 +1,16 @@
+<img src="https://github.com/zrosenbauer/art/blob/main/banners/banner_archived.png" />
+<div align="center">
+    <p>
+        Migrate to 
+        <a href="https://github.com/slackapi/slack-github-action">
+            Slack GitHub Action (from the Slack Team)
+        </a>
+    </p>
+</div>
+
+<br />
+<br />
+<br />
 <div>
     <p align="center">
         <img src="/logo.png" align="center" width="300" />

@@ -18,8 +18,8 @@ inputs:
     description: Use to specify a URL to an image to use as the profile photo alongside the message.
     required: false
 runs:
-  using: node16
-  main: dist/index.js
+  using: node20
+  main: build/index.js
 branding:
   icon: mail
   color: blue
